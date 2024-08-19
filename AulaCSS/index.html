@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Formulário dos times </title>
+
+        <style>
+
+            label{
+                font-size: 25px;
+                color: #000000;
+            }
+
+        </style>
+    </head>
+    <body>
+        <h1> Formulário sobre o seu time.</h1>
+
+        <br/>
+
+        <form action="" method="">
+
+            <div>
+                <label> Time em que você torce </label>
+                <select id="selTimeTorcido" name="selTimeTorcido">
+                    <option>São Paulo</option>
+                    <option>Corinthians</option>
+                    <option>Palmeiras</option>
+                    <option>Santos</option>
+                    <option>Flamengo</option>
+                    <option>Vasco</option>
+                    <option>Outros</option>
+                </select>
+            </div>
+
+            <br/>
+
+            <div>
+                <label> Cores do time </label>
+                <input type="color" id="txCorTime01" name="txCorTime01" />
+                <input type="color" id="txCorTime02" name="txCorTime02" />
+                <input type="color" id="txCorTime03" name="txCorTime03" />
+            </div>
+
+            <br/>
+
+            <div>
+            <label>Coloque o escudo do time escolhido. </label>
+            <br/>
+            <input type="file" id="txEscudo" name="txEscudo" />
+            </div>
+
+            <br/>
+
+            <div>
+                <label> Títulos que o time já ganhou: </label>
+
+                 <br/>
+
+                <input type="checkbox" id="ckPaulista" name="ckPaulista" /> <span> Paulista </span>
+
+                <br/>
+
+                <input type="checkbox" id="ckBrasileiro" name="ckBrasileiro" /> <span> Brasileiro </span>
+
+                <br/>
+
+                <input type="checkbox" id="ckCopaDoBrasil" name="ckCopaDoBrasil" /> <span> Copa do Brasil  </span>
+
+                <br/>
+
+                <input type="checkbox" id="ckLibertadores" name="ckLibertadores" /> <span> Libertadores  </span>
+
+                <br/>
+                
+                <input type="checkbox" id="ckRecopa" name="ckRecopa" /> <span> Recopa </span>
+
+                <br/>
+
+                <input type="checkbox" id="ckMundialDeClubes" name="ckMundialDeClubes" /> <span> Mundial de Clubes  </span>
+
+                <br/>
+
+                <input type="checkbox" id="ckNenhum" name="ckNenhum" /> <span> Nenhum  </span>
+            </div>
+            
+            <br/>
+
+            <div>
+                <label> O time já foi rebaixado? </label>
+                <select id="selTimeTorcido" name="selTimeTorcido">
+                    <option>Nunca</option>
+                    <option>Sim/option>
+                </select>
+            </div>
+
+            <br/>
+
+            <div>
+            <label> Hino do Clube </label>
+            <textarea> </textarea>
+            </div>
+
+            <br/>
+
+            <div>
+                <input type="submit" value="enviar" />
+            </div>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+
+elemento{
+	propriedade:valor;
+	propriedade:valor;	
+}
+
+elemento2{
+	propriedade:valor;	
+}
+
+-------
+Formas de utilizar o CSS:
+inline
+apenas na página
+arquivo externo
+
+
+
+---------
+Exemplo: inline
+
+<p style="color:#f00;font-size:16px;"> 
+	Meu texto
+</p>
+
+
+https://www.w3schools.com/css/
+
+
+
+
+
+

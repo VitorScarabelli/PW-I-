@@ -1,0 +1,313 @@
+.ColunaLogo{
+    float: left;
+    background-color: rgb(175, 0, 0);
+    width: 33.3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px; 
+    color: rgb(175, 0, 0);
+}
+
+.Logo{
+    float: left;
+    background-color: rgb(175, 0, 0);
+    width: 100px;
+    height: 100px;
+}
+
+.jjkimagem{
+    float: left;
+    background-color: rgb(175, 0, 0);
+    width: 200px;
+    height: 57px;
+    margin-top: 20px;
+}
+
+
+.opcoes{
+    float: left;
+    background-color: rgb(175, 0, 0);
+    height: 100px;
+    width: 33.3%;
+}
+
+.contato{
+    background-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px; 
+    color: white;
+    border: 2px solid white;
+    border-radius: 100px;
+    float: left;
+    margin-top: 34px;
+    margin-left: 100px;
+}
+
+.botaocontato{
+    float: left;
+    border-radius: 100px; 
+    margin-left: 100px;
+}
+
+.botaohome{
+    float: left;
+    border-radius: 100px;
+    margin-top: 17px;
+    margin-left: 145px;
+}
+
+.Home{
+    background-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px; 
+    color: white;
+    border: 2px solid white;
+    border-radius: 100px;
+    float: left;
+
+}
+
+.colunapesquisa{
+    float: left;
+    background-color: black;
+    height: 100px;
+    width: 33.3%;
+}
+
+.pesquisa{
+    background-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px; 
+    color: white;
+    border: 2px solid white;
+    border-radius: 1500px;
+    margin-top: 30px;
+    margin-left: 120px;
+    float: left;
+
+}
+
+.destaque{
+    background: url(../images/yuta\ gojo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment:fixed;
+    width: 50%;
+    height: 550px;
+    margin-left: 25%;
+}
+
+
+
+.txdestaque{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-top: 50px;
+    text-align: center;
+    text-orientation: a;
+    color: rgb(255, 0, 0);
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: #000;
+}
+
+.imgdestaque{
+    width: 0px;
+    margin-top: 400px;
+}
+
+.titulo{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.txtitulo{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.imgjjk{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.explicacaojjk{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.lista{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.yuji{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.yujiimagem{
+    margin-left: 10%;
+    height: 200px;
+    width: 500px;
+}
+
+.txyuji{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+
+
+.todo{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.todoimagem{
+    margin-left: 10%;
+    height: 225px;
+    width: 500px;
+}
+
+.txtodo{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+
+
+.yuta{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.yutaimagem{
+    margin-left: 5%;
+    height: 250px;
+    width: 550px;
+}
+
+.txyuta{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+
+
+.gojo{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.satoroimagem{
+    margin-left: 10%;
+    height: 350px;
+    width: 550px;
+}
+
+.txgojo{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.sukuna{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.sukunaimagem{
+    margin-left: 10%;
+    height: 250px;
+    width: 550px;
+}
+
+.txsukuna{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.finalizacao{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.txfinalizacao{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px; 
+}
+
+.footer{
+    
+    background-color:rgb(0, 0, 0) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgba(0, 0, 0, 0.663);
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: -100px;
+    margin-top: 100px;
+    height: 100px;
+}
+
+.txfooter{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;  
+    color: aliceblue;
+}
+
+.footer1{
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+    text-align: center;
+    background-color:rgb(0, 0, 0) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgba(0, 0, 0, 0.663);
+    text-align: center;
+    font-size: 25px;
+    /* margin-bottom: -100px;
+    margin-top: 150px; */
+    height: 100px;
+    width: 99%;
+}
+
+.txfooter1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;  
+    color: aliceblue;
+}
+
+.titulo1{
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color:rgba(0, 0, 0, 0.663);
+   font-size: 25px;
+}
+
+.cabecalho{
+    margin-top: -50px;
+    margin-left: -10px;
+    margin-right: -7px;
+}
+
+.form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgba(0, 0, 0, 0.663);
+    text-align: center;
+    font-size: 20px;
+}
+
+

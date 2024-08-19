@@ -1,0 +1,181 @@
+<html lang="en">
+        <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Jujutsu.Kaisen</title>
+        <link rel="stylesheet" href="./css/style.css"> 
+        <link rel="icon" href="./images/Simbolo jujtusu.png" type="png">
+    </head>
+    <body>  
+
+<header style="width:100%; height:50px; color:#FFF; float:left;">
+
+<div style="width:20%; float:left">
+	<img src="./images/Simbolo jujtusu.png" style="height:100%; float:left;">
+	<img src="./images/jjkimagem.png" style="height:100%; float:left;">
+</div>
+
+<div style="width:60%; float:left">
+<div class="botaocontato">
+                        <a href="contato.html">
+                            <button class="contato">Contato</button>
+                        </a>
+                    </div>
+
+                    <br> 
+                    
+                    <div class="botaohome">
+                        <a href="index.html">
+                            <button class="Home">Home</button>
+                        </a>
+                    </div>
+</div>
+
+<div style="width:20%; float:left">pesquisa</div>
+</header>
+
+       
+
+         <br>
+         <br>
+         <br>
+         <br>
+         <br>
+         <br>
+
+         
+     <section class="destaque">
+         <div>
+            <img src="./images/yuta gojo.jpg" class="imgdestaque">
+             <h1 class="txdestaque"> 
+                Fans teorizam sobre a volta de Satoro Gojo no capítulo 260 mas se decepcionam ao saber que quem retornava era Yuta Okkotsu
+             </h1>
+         </div>
+     </section>
+
+     <br>
+     <br>
+     <br>
+
+     <section class="titulo">
+        <h1 class="txtitulo">
+            Quem são os mais fortes na obra de jujutsu kaisen?
+        </h1>
+        <img src="./images/capajjk.jpg" class="imgjjk">
+        <p class="explicacaojjk">
+          Jujutsu kaisen é uma obra escrita por Gege Akutami, tendo seu inicio em 5 de março de 2018 e atualmente tem 261 capitulos. Dentre esses capitulos diversos personagens foram apresentados, mas qual deles é o mais forte até o moemento? Trazemos aqui uma lista do top 5 mais poderosos!
+        </p>
+     </section>
+     
+     <br>
+     <br>
+     <br>
+     <br>
+
+
+     <section class="lista">
+     <ul>
+         <div>
+             <li class="yuji">Top 5: Yuji Itadori </li>
+             <br>
+             <img src="./images/yuji.PNG" class="yujiimagem">
+             <div>
+                 <p class="txyuji"> 
+                 Itadori Yuji atualmente é o ex portador do rei das maldições Sukuna que seguindo a arvore genealogica tamebm é seu tio. Ele demonstrou ter um grande poder por conta de sua linhagem, onde seu pai é uma reencarnação da alma do irmão gemeo de Sukuna o qeu faz ele ter um poder latente incrivel. Um dos exemplos de poder que ele possui é sua grande capacidade de soltar "Fulgores negros" que são o golpe mais poderoso e dificil de ser utilizado, onde até mesmo os mais fortes feiticeiros não o dominam. Atualmente ele possui a tecnica inata de manipulação de sangue e o santuario de sukuna.
+                 </p>
+             </div>
+
+         </div>
+             
+         <br>
+         <br>
+         <br>
+
+         <div> 
+             <li class="todo"> Top 4: Aoi Todo </li>
+
+             <br>
+
+             <img src="./images/todo.jpg" class="todoimagem">
+                 <div>
+                     <p class="txtodo">
+                     Aoi todo é um feitiçeiro de primeiro grau e atualmente um dos mais fortes que tem pelo fato de sua tecnica ser uma das maias complicadas de se lidar em combate. Sua tecnica é o boogie woogie, tendo como funcionamento a troca de posição de duas ou mais coisas sendo objetos ou criaturas com um simples pater de palmas, Porém, nos capitulos mais atuais do mangá de jujutsu kaisen todo colcoou no lugar de uma de suas mãos um aparelho musical que o permite fazer mais de 50 trocas por segundo, fazendo até mesmo o mais forte dos feitiçeiros passar sufuco para combater contra o incrivel QI em combate de aoi todo e sua tecnica incrivelmente forte.
+                     </p>
+                 </div>
+
+         </div>
+
+         <br>
+         <br>
+         <br>
+
+         <div>
+             <li class="yuta"> Top 3: Yuta Okkotsu </li>
+
+             <br>
+
+             <img src="./images/yuta.jpg" class="yutaimagem">
+
+                 <div>
+                     <p class="txyuji">
+                         Yuta okkotsu assim como Yuji itadori, É pupilo de Satoro gojo que é o feiticeiro mais forte da era moderna. Yuta possui uma técnica ardilosa, sendo ela a cópia. A técnica por si só já é um risco enorme para seus adversários, mas Yuta consegue a utilizar da forma mais proficiente possível. Além da sua técnica inata, Yuta possui uma maldição de grau especial junto a si, sendo ela Rika orimoto, uma antiga paixão  de yuta que morreu e foi amaldiçoada pelo mesmo, afinal, não existe uma maldição mais forte que o amor. Se tornando assim uma poderosa maldição que carrega o titulo de rainha das maldições.
+                     </p>
+                 </div>
+         </div>
+
+         <br>
+         <br>
+         <br>
+
+         <div>
+             <li class="gojo">Top 2: Satoro Gojo </li>
+
+             <br>
+
+             <img src="./images/gojo.png" class="satoroimagem">
+
+             <div>
+                 <p class="txgojo">
+                 Satoro gojo, o feitiçeiro mais forte da era moderna. Ele não carrega esse título por brincadeira, ele é do clã gojo que por si só já é uma coisa incrível, mas ele possui não só uma mas duas habilidades que em conjunto são invencíveis, a técnica de manipulação e distorção de espaço chamada de ilimitado. A técnica sozinha tem um alto custo em energia, tendo uma dificuldade inimaginável pra ser usada com maestria, mas em troca ela possui habilidades incríveis como o Vazio Roxo, uma técnica que junta a técnica de atração chamada Azul e a sua reversão de feitiço chamada de vermelho onde gera a repulsão de tudo que toca, criando assim uma massa imaginária que age como uma antimatéria. Além de sua técnica básica chamada de infinito que literalmente cria uma área infinita entre o usuário e algum ponto, fazendo com que o alvo tenha que passar por infinitos espaços o desacelerando infinitamente até não poder se mover mais. Mas como se isso não bastasse, Satoro gojo ainda possui o 6 olhos, técnica hereditária que faz seu refino de energia ser ampliado ao extremo e seu gasto de energia ser quase nulo, sendo a combinação perfeita para fazer um feiticeiro imbatível, coisa que o mesmo faz com tanta maestria que deixou até mesmo o feiticeiro mais forte encurralado e com medo.
+                 </p>
+             </div>
+         </div>
+
+         <br>
+         <br>
+         <br>
+
+         <div>
+             <li class="sukuna"> Top 1: Ryomen Sukuna </li> 
+                 <br>
+                 <img src="./images/sukuna.png" class="sukunaimagem">
+                 <div>
+                     <p class="txsukuna">
+                         Ryomen Sukuna, esse é o nome do feitiçeiro mais forte atualmente na obra, seus feitos passam de ser apenas lendas, a derrota do feiticeiro mais forte da era moderna é algo que ele conquistou com estratégias ardilosas e geniais. Sua técnica é o santuário, se baseando no conceito de cozinhar, sua técnica principal é o desmantelar e clivar que causam poderosos cortes em um alvo específico, podendo fazer com que eles se adaptem a resistência do alvo os deixando ainda mais fortes, também possui a técnica "Fuuga" que resumindo é uma técnica de flecha de fogo mortal, onde ninguém dá obra até o momento foi capaz de levar o golpe e sair vivo. O seu corpo original possui 4 braços, olhos e 2 bocas, se tornando o feiticeiro com o corpo perfeito para o uso do jujutsu já que com essa biologia ele pode fazer rituais em batalha sem sobrecarregar de nenhuma forma. Sua experiência vem desde a era de ouro do jujutsu, fazendo ele um dos personagens com maior experiência em combate da obra. Atualmente no mangá ele foi capaz de derrotar Satoro gojo, Kashimo hajime (feiticeiro reencarnado considerado o mais forte de sua época), Yuta okkotsu junto de alguns outros feiticeiros muito poderosos, além de estar lutando com itadori e aoi todo junto a yuta utilizando o corpo de satoro gojo sem cair até agora, mostrando sua alta resistência e habilidade em combate, fazendo dele o feiticeiro mais forte da obra Atualmente (mesmo se utilizando do roteiro algumas vezes).
+                     </p>
+                 </div>
+         </div>
+     </ul>
+     </section>
+     
+     <br>
+     <br>
+     <br>
+
+     <hr>
+
+     <section class="finalizacao">
+        <img src="" class="imgfinal">
+        <p class="txfinalizacao">
+            Esse site tem o intuito de trazer informações sobre uma obra, sendo feita totalmente por um fã da mesma e seu amigo. Todas as informações foram tiradas do próprio mangá, sendo que a lista foi baseada totalmente nos feitos mostrados ate o momento.
+     </section>
+
+     <footer class="footer">
+        <div>
+           <br/>
+           <p class="txfooter">Todos os direitos reservados a Jujutsu.Kaisen - 2024 </p>
+           <br/>
+        </div>
+     </footer>
+    </body>
+</html>
